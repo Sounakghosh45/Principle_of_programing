@@ -1,0 +1,5 @@
+# ninja log v6
+3	101	7466563251789453	CMakeFiles/Principle_of_programing.dir/main.c.obj	a6c90f97cf962670
+3	97	7466569522820547	Principle_of_programing.exe	79c3e48f3fbb3e85
+2	67	7466567925013276	CMakeFiles/Principle_of_programing.dir/add.c.obj	ff5628f764244db3
+2	218	7466570490841871	build.ninja	4b5f3df4816a997
