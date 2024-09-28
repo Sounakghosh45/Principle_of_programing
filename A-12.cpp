@@ -140,6 +140,3 @@ int main() {
     }
 
     return 0;
-}//
-// Created by User on 18-09-2024.
-//
