@@ -126,7 +126,7 @@ private:
 
 int main() {
     ATM x;
-    x.account("12345678", "Sounak Ghosh", 1000.0, 1234);
+    x.account("12345678", "Injamam", 100000.0, 1234);
 
     int input;
     cout << "Enter your PIN: ";
@@ -140,3 +140,4 @@ int main() {
     }
 
     return 0;
+}
