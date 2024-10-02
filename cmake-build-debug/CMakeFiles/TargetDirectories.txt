@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Principle_of_programing/cmake-build-debug/CMakeFiles/Principle_of_programing.dir
-C:/Users/User/CLionProjects/Principle_of_programing/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Principle_of_programing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
