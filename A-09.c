@@ -1,3 +1,4 @@
+//new
 #include <stdio.h>
 
 void copyString(char *destination, const char *source) {
