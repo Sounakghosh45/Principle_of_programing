@@ -1,4 +1,4 @@
-//new
+//new update
 #include <stdio.h>
 
 void copyString(char *destination, const char *source) {
