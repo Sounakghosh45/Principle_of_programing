@@ -1,10 +1,11 @@
 //new
 #include<iostream>
+#define rate 15.0
 using namespace std;
 int main()
 {
     float p,t,inter;
-    float rate=15.0;
+
     cout<<"enter the amount: \n";
     cin>>p;
     cout<<"enter the time: ";

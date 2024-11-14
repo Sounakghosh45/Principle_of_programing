@@ -21,11 +21,11 @@ int main()
     float length,width;
     cout<<"enter the length and width: \n";
     cin>>length>>width;
-    cout<<"the area of triangle is: "<<star.calculateAreaall(width,length);
+    cout<<"the area of triangle is: "<<star.calculateAreaall(width,length)<<endl;
     float radius;
     cout<<"enter the radius: \n";
     cin>>radius;
-    cout<<"circle radius is: "<<star.calculateAreaall(radius);
+    cout<<"circle radius is: "<<star.calculateAreaall(radius)<<endl;
     int le,hight;
     cout<<"enter the length and hight: \n";
     cin>>le>>hight;
